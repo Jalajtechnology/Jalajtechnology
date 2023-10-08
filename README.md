@@ -2,11 +2,11 @@
 <!-- -👋 Hi, I’m @JalajAgarwal
 - 👀 I’m interested in FullStack Development 
 - 🌱 I’m currently learning  FullStack Development
-- 💞️ I’m looking to collaborate  for open-Source and InternDevelopment
-- 📫 How to reach me email = jalajagarwal1234@gmail.com / Phn-6306456339  -->
+- 💞️ I’m looking to collaborate  for open-Source 
+- 📫 How to reach me email = jalajagarwal1234@gmail.com 
 
 
-<!---
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=JalajAgarwal&lab=Profile%20views&color=0e75b6&style=flat" alt="JalajAgarwal" /> </p>
 
