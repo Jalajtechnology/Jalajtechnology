@@ -1,6 +1,6 @@
-<!-- <h3 align="center">Hello there, I'm Divyansh 👋</h3> -->
+<!-- <h3 align="center">Hello there, I'm Jalaj 👋</h3> -->
 <!-- -👋 Hi, I’m @JalajAgarwal
-- 👀 I’m interested in Backend Development 
+- 👀 I’m interested in FullStack Development 
 - 🌱 I’m currently learning  FullStack Development
 - 💞️ I’m looking to collaborate  for open-Source and InternDevelopment
 - 📫 How to reach me email = jalajagarwal1234@gmail.com / Phn-6306456339  -->
